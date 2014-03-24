@@ -14,6 +14,11 @@ It contains a number of convenience functions cheerfully ripped from the Perl pr
 * __RE__ - Perl like regular expression syntax for PHP
 
 
+WARNING
+=======
+This project has now been superseeded by the Composer based [Pherl](https://github.com/hash-bang/Pherl) package. Please update your project to use that repository instead.
+
+
 `qw` - Quick array initalizer
 =============================
 Quickly initalize arrays by providing a single string. The array elements are determined by any whitespace.
